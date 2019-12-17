@@ -1,0 +1,99 @@
+/*Сраведливо для всех файлов*/
+div{
+	text-align: center;
+}
+img{
+	box-shadow: 0 0 5px;
+}
+a{
+	color: black;
+	font-weight: bold;
+	
+}
+a:hover{
+    background: DeepSkyBlue; /* Цвет фона под ссылкой */ 
+    color: black; /* Цвет ссылки */ 
+	padding: 15px;
+} 
+
+/*Для файла с меню (5.html)*/
+.menu{
+	background: MediumSlateBlue;
+}
+
+.c5h1{
+	color: white;
+}
+
+/*Для 1.html*/
+.back1{
+	background: LightBlue;
+}
+.c1h1{
+	color: DarkSlateBlue;
+}
+.c1h2{
+	color: Purple;
+}
+.light1{
+	background-color: Gold;
+}
+
+/*Для 2.html*/
+.back2{
+	background: PowderBlue;
+}
+.c2h1{
+	color: DarkRed;
+}
+.c2h2{
+	color: Navy;
+}
+.light2{
+	background-color: Pink;
+}
+
+/*Для 3.html*/
+.back3{
+	background: Thistle;
+}
+.c3h1{
+	color: DarkGreen;
+}
+table{
+	width: 100%;
+	background: MistyRose;
+	color: black;
+	border-spacing: 1px;
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+td{
+	background: none;
+	padding: 5px;
+	border: 1px solid black;
+}
+th{
+	background: LightPink;
+	padding: 5px;
+	border: 1px solid black;
+}
+
+/*Для 4.html*/
+.back4{
+	background: SteelBlue;
+}
+.c4h1{
+	color: YellowGreen;
+}
+
+/*Для базы данных котиков*/
+.bd{
+	background: rgb(248, 255, 180);
+}
+
+.bd th{
+	background: rgb(126, 176, 209);
+}
+
+/*.bd td*/
